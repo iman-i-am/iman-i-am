@@ -16,7 +16,6 @@ I'm Iman — a **Data Analyst** with a chemistry background and applied data sci
 
 - 🟢 Built **ESG reports** for the green-economy sector, helping teams track carbon footprint and identify 3 high-impact reduction levers
 - 🧑🏾‍🎓 Developed a **classification model** to predict youth employment probabilities (high AU-ROC; improved targeting for interventions)
-- 💡 Recognized as a go-to subject matter expert in **invoice consolidation, employee benefits reporting, and reconciliation**
 
 ---
 
