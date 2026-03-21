@@ -34,8 +34,7 @@ Placed **3rd** on the Zindi Ghana Indigenous Intel Challenge
 private leaderboard. The finding I'm most proud of isn't the score —
 it's that the algorithm validated what the elders already knew.
 → [Read the story](https://medium.com/@iman.ngwepe/before-the-rain-gauge-indigenous-forecasting-meets-machine-learning-0e9b2873c051)
-→ [See the project](#)
-
+→ [See the project](https://github.com/iman-i-am/ghana_rainfall_prediction)
 **💊 European Pharmacy Sales & Profitability Analytics**
 End-to-end analytics on 62,000+ transactions across 120 pharmacies
 in 8 countries. SQL Server + Power BI. Found a €83,000 annual margin
