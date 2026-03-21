@@ -1,4 +1,4 @@
-# Hey, I'm Iman 👋🏾
+hi# Hey, I'm Iman 👋🏾
 
 I'm a **Data Analyst** with a chemistry background and a deep curiosity
 about what data can reveal when you ask it the right questions.
@@ -40,7 +40,7 @@ it's that the algorithm validated what the elders already knew.
 End-to-end analytics on 62,000+ transactions across 120 pharmacies
 in 8 countries. SQL Server + Power BI. Found a €83,000 annual margin
 leak hiding inside the promotional strategy.
-→ [See the project]([#](https://github.com/iman-i-am/European-Pharmacy-Sales-Profitability-Analysis)
+→ [See the project](https://github.com/iman-i-am/European-Pharmacy-Sales-Profitability-Analysis)
 
 **🌱 ESG Benchmarking Dashboard** *(in progress)*
 Tracking carbon footprint and sustainability metrics for
